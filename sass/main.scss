@@ -10,8 +10,8 @@ body {
   align-items: center;
   background-color: rgba($color: #000000, $alpha: 0.7);
 
-  @media only screen and (min-width: 480px) {
-    height: 100vh;
+  @media only screen and (min-width: 481px) {
+    height: 50rem;
   }
 }
 
